@@ -11,6 +11,9 @@ Soy estudiante de licenciatura en computacion en la uabjo. Me apasiona el area d
 - **Herramientas y tecnologías**: GitHub
 - **Otros conocimientos**: Desarrollo web
 
+## Estadísticas (opcional)
+- ![Estadísticas](https://github-readme-stats.vercel.app/api?username=CristopherAntonioPerezGutierrez&show_icons=true&hide_title=true)
+
 
 
 ## Educación
@@ -21,9 +24,10 @@ Soy estudiante de licenciatura en computacion en la uabjo. Me apasiona el area d
 
 ## Contacto
 
+- **instagram**: [cristopherouo]
 - **Email**: [cristopherouo@gmail.com)
 - **Twitter**: [_criistopher_)
-- **GitHub**: [Tu perfil de GitHub](https://github.com/tu_usuario)
+- **GitHub**: [https://github.com/CristopherAntonioPerezGutierrez)
 
 ## GitHub Stats
 
