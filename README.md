@@ -3,12 +3,14 @@
 ## About me
 I am a Computer Science undergraduate student at UABJO. I am passionate about computing and programming because of the wide range of job opportunities in the field, and I am working on improving my skills in mathematics and JavaScript. 
 
+from Oaxaca de Juarez mexico 🇲🇽
+
 ![Foto de perfil](https://live.staticflickr.com/3089/2426587491_a333fe9498_n.jpg) 
 
 ## Skills
 
 - **Programming languages**:Basic knowledge of JavaScript
-- **Tools and technologies:**: GitHub
+- **Tools and technologies:**: GitHub                                       💻
 - **Other knowledge:**: Web development
 
 ## Statistics (optional)
@@ -24,7 +26,7 @@ First semester, school year 2024-2025 (in progress).
 
 ## Contact
 
-- **instagram**: [https://www.instagram.com/cristopherouo/]
+- :i**instagram**: [https://www.instagram.com/cristopherouo/]
 - **Email**: [cristopherouo@gmail.com)
 - **Twitter**: [_criistopher_)
 - **GitHub**: [https://github.com/CristopherAntonioPerezGutierrez)
