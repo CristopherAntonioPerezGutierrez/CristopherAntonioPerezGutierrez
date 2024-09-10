@@ -28,8 +28,3 @@ First semester, school year 2024-2025 (in progress).
 - **Email**: [cristopherouo@gmail.com)
 - **Twitter**: [_criistopher_)
 - **GitHub**: [https://github.com/CristopherAntonioPerezGutierrez)
-
-## GitHub Stats
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
-
