@@ -1,30 +1,30 @@
-# Hola, soy [Cristopher Antonio] 👋
+# Hello, I'm [Cristopher Antonio] 👋
 
-## Sobre mí
-Soy estudiante de licenciatura en computacion en la uabjo. Me apasiona el area de la computacion y programacion por el campo laboral muy abierto y estoy trabajando en mejorar mis habilidades en las matematicas y el javascrip. 
+## About me
+I am a Computer Science undergraduate student at UABJO. I am passionate about computing and programming because of the wide range of job opportunities in the field, and I am working on improving my skills in mathematics and JavaScript. 
 
 ![Foto de perfil](https://live.staticflickr.com/3089/2426587491_a333fe9498_n.jpg) 
 
-## Habilidades
+## Skills
 
-- **Lenguajes de programación**: lo mas basico de javascrip
-- **Herramientas y tecnologías**: GitHub
-- **Otros conocimientos**: Desarrollo web
+- **Programming languages**:Basic knowledge of JavaScript
+- **Tools and technologies:**: GitHub
+- **Other knowledge:**: Web development
 
-## Estadísticas (opcional)
+## Statistics (optional)
 - ![Estadísticas](https://github-readme-stats.vercel.app/api?username=CristopherAntonioPerezGutierrez&show_icons=true&hide_title=true)
 
 
 
-## Educación
+## Education
 
-- **[Universidad Autonoma Benito Juarez de Oaxaca]** - [Licenciatura en computacion]
-  - primer semestre cilo escolar 2024-2025 En curso.
+- **[Benito Juárez Autonomous University of Oaxaca]** - [Bachelor’s in Computer Science]
+First semester, school year 2024-2025 (in progress).
   -  
 
-## Contacto
+## Contact
 
-- **instagram**: [cristopherouo]
+- **instagram**: [https://www.instagram.com/cristopherouo/]
 - **Email**: [cristopherouo@gmail.com)
 - **Twitter**: [_criistopher_)
 - **GitHub**: [https://github.com/CristopherAntonioPerezGutierrez)
